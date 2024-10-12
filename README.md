@@ -17,7 +17,7 @@ Quando não estou codando, você pode me encontrar criando drinks e explorando n
       </td>
       <td align="center">
         <p>Frameworks</p>
-        <img src="https://skillicons.dev/icons?i=django,fastapi,tailwind" /><br>
+        <img src="https://skillicons.dev/icons?i=django,fastapi,tailwind,bootstrap,vuejs" /><br>
       </td>
       <td align="center">
         <p>Tools</p>
