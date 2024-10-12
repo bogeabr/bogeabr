@@ -1,13 +1,42 @@
-### Hi there 👋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thalyssonbogea/)
+# Bogea 🍸💻
 
-![Thalysson Bogéa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bogeabr&show_icons=true&count_private=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogeabr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-### Technologies I use
-<div style="display: inline_block"><br>
-  <img align="center" alt="thalys-py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="thalys-distro" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img align="center" alt="thalys-fla" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img align="center" alt="thalys-vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-</div><br>
-Learning flask and vue.js
+**`Barman com um novo objetivo: me tornar desenvolvedor backend`**
+
+Atualmente, estou focado em estudar **Python** e suas aplicações no backend.  
+Apaixonado por criar soluções práticas e eficientes usando tecnologia.  
+Quando não estou codando, você pode me encontrar criando drinks e explorando novos sabores 🍹.
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <p>Languages</p>
+        <img src="https://skillicons.dev/icons?i=python,c,javascript" /><br>
+      </td>
+      <td align="center">
+        <p>Frameworks</p>
+        <img src="https://skillicons.dev/icons?i=django,fastapi,tailwind" /><br>
+      </td>
+      <td align="center">
+        <p>Tools</p>
+        <img src="https://skillicons.dev/icons?i=vscode,github,git,neovim" /><br>
+      </td>
+    </tr>
+  </table>
+</div>
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=bogeabr&show_icons=true&theme=dark" alt="bogeabr's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bogeabr&layout=compact&theme=dark" alt="bogeabr's Top Languages" />
+    </td>
+  </tr>
+</table>
+
